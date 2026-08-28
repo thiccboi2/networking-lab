@@ -1,0 +1,10 @@
+Problem:media server unreachable from outside gateway due to cgnat.
+
+Troubleshooting steps:
+Checked physical connection
+Verified IP configuration
+Tested gateway
+Tested DNS
+Tested external IP
+Identified failure point
+Resolutions were - access over offsite relay or port forward correct ports and enable VPN for remote access
